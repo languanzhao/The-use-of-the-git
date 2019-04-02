@@ -1,4 +1,4 @@
-右键点击 git bash here 打开命令行
+右键点击 Git Bash here 打开命令行
 
 1.克隆项目到本地
 a.git clone 地址
