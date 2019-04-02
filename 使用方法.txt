@@ -1,0 +1,11 @@
+右键点击 git bash here 打开命令行
+
+1.克隆项目到本地
+a.git clone 地址
+
+2.从本地上传文件到GitHub
+a. git add .    代表添加所有文件  git add 文件名      可以添加单个文件
+b. git commit -m "需要写注释在这里"
+c. git push
+
+3.关于文档乱码问题（如果是直接新建文档就上传到GitHub就会出现乱码问题，解决方法是保存时选择另存为再选择utf-8格式）
